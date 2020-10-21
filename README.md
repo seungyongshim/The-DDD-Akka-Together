@@ -1,5 +1,6 @@
 # The-DDD-Akka-Together
 
+- [Vlingo](https://www.nuget.org/profiles/Vlingo)
 - [vlingo-actors](https://docs.vlingo.io/overview)
 - [Microsoft Orleans with EventStoreDB](https://eventstore.com/blog/event-store-orleans/)
 - [Really Simple CQRS](https://kalele.io/really-simple-cqrs/)
